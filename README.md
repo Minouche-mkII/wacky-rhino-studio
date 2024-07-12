@@ -86,16 +86,19 @@ there is neither web documentation nor tutorials for this framework for the mome
 ## Getting started
 > [!WARNING]
 > WIP section
+
 How to create a wacky rhino studio project
 
 ## 🔨 Build
 > [!WARNING]
 > WIP section
+
 build routines, dependencies, deploy
 
 ## 🧪 Testing
 > [!WARNING]
 > WIP section
+
 How to and when should you run tests
 
 ## License & Contributing
